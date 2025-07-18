@@ -1,0 +1,21 @@
+
+.flex{
+    margin: auto;
+    width: fit-content;
+    border: solid lightblue;
+    background: lightblue;
+    padding: 12px 24px;
+    margin-top: 50px;
+    
+    
+    
+}
+.box{
+    margin-bottom: 5px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
